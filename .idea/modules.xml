@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BFS/BFS.iml" filepath="$PROJECT_DIR$/BFS/BFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DFS/DFS.iml" filepath="$PROJECT_DIR$/DFS/DFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCodeQuestions.iml" filepath="$PROJECT_DIR$/LeetCodeQuestions.iml" />
     </modules>
   </component>
